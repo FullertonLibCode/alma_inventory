@@ -37,7 +37,7 @@
 include 'simplexlsx/simplexlsx.class.php';
 
 //Ensure Authentication and load API Keys
-require("login.php");
+//require("login.php");
 require("SortCallNumber.php");
 require("almaBarcodeAPI.php");
 
